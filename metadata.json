@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Lens",
+  "description": "Advanced AI-powered photo editor featuring Pixel Art, Anime conversion, Background Removal, and 4K Enhancement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
